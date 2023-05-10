@@ -36,15 +36,15 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/RTXZY-MD
-> cd RTXZY-MD
+> git clone  https://github.com/BOTCAHX/Al-User12
+> cd Al-User12
 > npm i
 > node index.js
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
-> cp -r RTXZY-MD $HOME
-> cd RTXZY-MD
+> cp -r Al-User12 $HOME
+> cd Al-User12
 > npm i
 > node index.js
 ```
@@ -53,7 +53,7 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RTXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/Al-User12)
 
 ```bash
 Login with your github
@@ -68,8 +68,8 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/BOTCAHX/Al-User12
+cd Al-User12
 npm i
 npm start
 ```
@@ -163,7 +163,7 @@ conn.logger.level = 'debug'
 
 **All Contributors**,
 
-[`Visit`](https://github.com/BOTCAHX/RTXZY-MD/graphs/contributors)
+[`Visit`](https://github.com/BOTCAHX/Al-User12/graphs/contributors)
 
 ### Contact Person
 

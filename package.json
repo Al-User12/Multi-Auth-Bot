@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
+    "homepage": "https://github.com/BOTCAHX/Al-User12",
     "author": {
         "name": "Base Coded By TioXd"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BOTCAHX/RTXZY-MD.git"
+        "url": "git+https://github.com/BOTCAHX/Al-User12.git"
     },
     "bugs": {
-        "url": "https://github.com/BOTCAHX/RTXZY-MD/issues"
+        "url": "https://github.com/BOTCAHX/Al-User12/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
