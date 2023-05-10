@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BOTCAHX/Al-User12",
+    "homepage": "https://github.com/Al-User12/Multi-Auth-Bot",
     "author": {
         "name": "Base Coded By TioXd"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BOTCAHX/Al-User12.git"
+        "url": "git+https://github.com/Al-User12/Multi-Auth-Bot.git"
     },
     "bugs": {
-        "url": "https://github.com/BOTCAHX/Al-User12/issues"
+        "url": "https://github.com/Al-User12/Multi-Auth-Bot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
